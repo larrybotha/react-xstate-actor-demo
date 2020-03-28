@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+}
+
+.content {
+  display: flex;
+}
+
+.content > div {
+  flex: 1;
+  padding: 1.5rem;
+}
+
+.alert {
+  padding: 1em;
+  background-color: hotpink;
+  font-size: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.task {
+  background-color: skyblue;
+  padding: 1.5em;
+  margin-bottom: 1rem;
+}
